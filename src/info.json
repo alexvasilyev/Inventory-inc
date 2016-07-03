@@ -1,0 +1,10 @@
+{
+  "name": "Inventory Inc",
+  "version": "1.0.0",
+  "title": "Inventory Inc",
+  "author": "Xiro",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "Increases players inventory",
+  "factorio_version": "0.13"
+}
